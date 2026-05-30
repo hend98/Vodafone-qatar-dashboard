@@ -1,5 +1,5 @@
-<img width="579" height="326" alt="1_Home" src="https://github.com/user-attachments/assets/145fe005-2eb0-4d8e-b19e-6714770e1e71" />
 # 📊 Vodafone Qatar Telecom Data Analysis Dashboard
+<img width="579" height="326" alt="1_Home" src="https://github.com/user-attachments/assets/145fe005-2eb0-4d8e-b19e-6714770e1e71" />
 
 ## 📌 Project Overview
 This interactive analytical dashboard was developed using **Power BI** to analyze the performance of **Vodafone Qatar** from **2021 to 2023**. The project aims to provide comprehensive, data-driven insights to support senior management in making strategic decisions, focusing on revenue sustainability, digital transformation, and customer risk management.
