@@ -1,3 +1,4 @@
+<img width="579" height="326" alt="1_Home" src="https://github.com/user-attachments/assets/145fe005-2eb0-4d8e-b19e-6714770e1e71" />
 # 📊 Vodafone Qatar Telecom Data Analysis Dashboard
 
 ## 📌 Project Overview
