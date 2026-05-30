@@ -74,7 +74,7 @@ Engineered the interface to prioritize data scannability and user experience (UX
 ---
 
 ## 👩‍💻 Developed By
-**Hend Abdelnasser** *Data Analyst & Content Creator* ✨ [#Ai_with_hend](https://www.linkedin.com)
+**Hend Abdelnasser**  (https://www.linkedin.com/in/hend-abd-elnasser-095764218/)
 
 ---
 
