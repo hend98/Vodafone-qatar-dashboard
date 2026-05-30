@@ -27,6 +27,35 @@ The dashboard is structured into five core analytical modules for seamless navig
 5. **5️⃣ Customer Service & Operations:** Analyzes support ticket performance, complaint resolution efficiency, and its direct impact on customer loyalty.
 
 ---
+## 📸 Dashboard Preview
+
+### 1️⃣ Executive Overview
+![Executive Overview](<img width="578" height="323" alt="2_Executive Overview" src="https://github.com/user-attachments/assets/7bf09fc3-7683-434a-8bf2-fcf6b41aa907" />
+)
+
+---
+
+### 2️⃣ Customers & Churn Analysis
+![Customers & Churn Analysis](<img width="583" height="325" alt="3_ Customers   Churn Analysis" src="https://github.com/user-attachments/assets/accecb00-b9c0-43bd-a9cb-b24936cebe34" />
+)
+
+---
+
+### 3️⃣ Revenue & Financial Performance
+![Revenue & Financial Performance](<img width="580" height="325" alt="4_Revenue   Financial Performance" src="https://github.com/user-attachments/assets/bb507796-928f-4c3a-a087-d435aeeab6b0" />
+)
+
+---
+
+### 4️⃣ Usage & Digital Behavior
+![Usage & Digital Behavior](<img width="580" height="325" alt="5_Usage   Digital Behavior" src="https://github.com/user-attachments/assets/e06aaa44-365c-4df8-8d45-0d4b4d5edc87" />
+)
+
+---
+
+### 5️⃣ Customer Service & Operations
+![Customer Service & Operations](<img width="582" height="328" alt="6_Customer Service   Operations" src="https://github.com/user-attachments/assets/277d12c6-bcc9-46ab-b034-dd37cf03c787" />
+)
 
 ## 📈 Key Insights
 - **Financial Growth Drivers:** Total revenue growth was simultaneously driven by an increase in subscriber base and higher ARPU, reflecting healthy market expansion and strong profitability.
